@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pando-staging-205620-authRole",
+      "UnauthRoleArn": "arn:aws:iam::898417950956:role/amplify-pando-staging-205620-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::898417950956:role/amplify-pando-staging-205620-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pando-staging-205620-deployment",
+      "UnauthRoleName": "amplify-pando-staging-205620-unauthRole",
+      "StackName": "amplify-pando-staging-205620",
+      "StackId": "arn:aws:cloudformation:us-east-1:898417950956:stack/amplify-pando-staging-205620/3db536c0-8c72-11ed-90f5-0e14ea7591df",
+      "AmplifyAppId": "d3jf87mdi9ghan"
+    },
+    "categories": {
+      "auth": {
+        "Pando": {}
+      }
+    }
+  }
+}
